@@ -5,8 +5,8 @@ Webapp using jdbc (POSTGRESQL, DataBaseName=Example, user=postgres, password=pos
 implements CRUD operations.
 
 _create_
-![img](https://github.com/fkzwd/jsf-jdbc-crud/blob/master/Create.png)
+![img](https://github.com/fkzwd/jsf-jdbc-crud/blob/master/Create.png)<br/>
 _edit_
-![img](https://github.com/fkzwd/jsf-jdbc-crud/blob/master/Update.png)
+![img](https://github.com/fkzwd/jsf-jdbc-crud/blob/master/Update.png)<br/>
 _show_
 ![img](https://github.com/fkzwd/jsf-jdbc-crud/blob/master/Index.png)
